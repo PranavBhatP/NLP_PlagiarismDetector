@@ -1,0 +1,1 @@
+{'abstract': '12', 'articleNumber': '12', 'articleTitle': '12', 'authors': [], 'doi': '', 'publicationTitle': 'IEEE Access', 'publicationYear': '', 'publicationVolume': None, 'publicationIssue': None, 'volume': '', 'issue': None, 'documentLink': '', 'xml': '12'}
