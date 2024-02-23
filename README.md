@@ -4,7 +4,7 @@ Intell Quest hackathon challenges you to develop an innovative research paper pl
 ## Getting started
 Clone the repostory using the command 
 ```
-git clone https://github.com/MeherRushi/Intell_Quest_Baseline.git
+git clone https://github.com/IEEE-NITK/Intell_Quest_24_Baseline.git
 ```
 Run ``python main.py`` and enter the input view the top 5 matching documents.
 
